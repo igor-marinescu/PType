@@ -1,0 +1,7 @@
+How to run test:
+
+
+Go to project root folder and execute test as module:
+
+....\python\PType>python -m ptype_src.test.backtiles_test
+
